@@ -17,10 +17,11 @@
     width: 100px;
 }
 .logo{
-    background-image: url(amazon_logo.png);
+    background-image: url(discontia_logo.jpg);
     height: 50px;
     width: 100%;
-    background-size: cover;
+    background-size: contain;
+    background-repeat: no-repeat;
 }
 .border{
     border: 1.5px solid transparent;
@@ -270,10 +271,11 @@ ul p{
     padding-bottom: 20px;
 }
 .foot-logo{
-    background-image: url(amazon_logo.png);
+    background-image: url(discontia_logo.jpg);
     height: 50px;
     width: 100px;
-    background-size: cover;
+    background-size: contain;
+    background-repeat: no-repeat;
 }
  .foot-panel-boxes{
     display: flex;
